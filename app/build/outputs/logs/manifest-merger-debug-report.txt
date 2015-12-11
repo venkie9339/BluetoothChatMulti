@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:3:1-28:12
+	package
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:4:7-51
+		INJECTED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:6:7-32
+	android:versionCode
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:5:7-30
+		INJECTED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml
+		INJECTED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:3:11-69
+uses-sdk
+ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:7:5-35
+	minSdkVersion
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:7:15-32
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:9:22-65
+application
+ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:11:5-27:19
+	android:label
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:11:18-50
+	android:icon
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:12:18-51
+activity#com.rayan.venki.BluetoothChatMulti.BluetoothChat
+ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:label
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:16:19-51
+	android:configChanges
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:17:19-69
+	android:name
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:15:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.rayan.venki.BluetoothChatMulti.DeviceListActivity
+ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:23:9-26:72
+	android:label
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:24:19-56
+	android:configChanges
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:26:19-69
+	android:theme
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:25:19-62
+	android:name
+		ADDED from H:\ProjectDemo\BluetoothChatMultidemo\app\src\main\AndroidManifest.xml:23:19-53
